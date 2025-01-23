@@ -1,0 +1,27 @@
+/*
+0 represent white
+1 represent black
+2 represent yellow
+3 represent orange
+*/
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: #333;
+}
+
+#csvInput {
+  margin: 20px;
+}
+
+#pixelCanvas {
+  display: block;
+  margin: 20px auto;
+  border: 1px solid #333;
+}
